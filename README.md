@@ -62,15 +62,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div style="text-align: center;">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=porfskylord&show_icons=true&theme=radical" />
-  <br/>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=porfskylord&theme=radical&hide_border=true" />
-</div>
-
----
-
 ### 🎯 2025 Goals
 - 🛡️ Learn advanced Spring Security (JWT, OAuth2)
 - ☁️ Build and deploy apps with Docker + PostgreSQL
