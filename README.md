@@ -50,7 +50,7 @@
   API-based digital archive of medicinal herbs built using Spring Boot + PostgreSQL.
 
 - 💬 **[TermTalk](https://github.com/porfskylord/TermTalk)**  
-  Terminal-based Java chat application — lightweight and fast!
+  Terminal-based Java chat application like hackers — lightweight and fast!
 
 - 📅 **[Weekly Plan Helper](https://github.com/porfskylord/Weekly-Plan-Update-Helper)**  
   Creates and emails weekly plans to your manager — simple productivity boost.
