@@ -77,6 +77,9 @@
 ---
 
 ### 🧩 Projects I’m Proud Of
+- 🏛️ **[Auction House](https://github.com/Porf-AuctionHouse)**
+  Auction House - Weekly Batch Auction System
+
 - 🏘️ **[WORKSTREAM ERP](https://github.com/porfskylord/WorkStreamERP)**
   Microservices-based ERP System for Remote Teams & Freelancers
 
